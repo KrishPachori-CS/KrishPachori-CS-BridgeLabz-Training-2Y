@@ -1,3 +1,5 @@
+package arrays.logic_building;
+
 import java.util.Scanner;
 
 public class SwapArray {
