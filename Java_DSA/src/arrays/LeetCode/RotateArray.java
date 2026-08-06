@@ -1,4 +1,4 @@
-package LeetCode;
+package arrays.LeetCode;
 
 class Solution {
     public void rotate(int[] nums, int k) {
