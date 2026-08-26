@@ -1,4 +1,6 @@
 package arrays.LeetCode;
+import java.util.Set;
+import java.util.HashSet;
 
 class LeetCode_349 {
     public int[] intersection(int[] nums1, int[] nums2) {

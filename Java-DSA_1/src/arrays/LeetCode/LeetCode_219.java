@@ -1,5 +1,8 @@
 package arrays.LeetCode;
 
+import java.util.Map;
+import java.util.HashMap;
+
 class LeetCode_219 {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         if (k == 0) return false;
